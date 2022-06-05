@@ -40,3 +40,17 @@ options.txt
 realms_persistence.json
 usercache.json
 usernamecache.json
+kubejs/assets/kubejs/textures/block/example_block.png
+kubejs/assets/kubejs/textures/item/example_item.png
+kubejs/client_scripts/script.js
+kubejs/config/client.properties
+kubejs/config/common.properties
+kubejs/README.txt
+kubejs/startup_scripts/script.js
+logs/2022-06-03-1.log.gz
+logs/2022-06-03-10.log.gz
+logs/2022-06-03-11.log.gz
+*.gz
+logs/kubejs/client.txt
+logs/kubejs/server.txt
+logs/kubejs/startup.txt
