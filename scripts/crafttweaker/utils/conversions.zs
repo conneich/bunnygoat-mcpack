@@ -1,5 +1,8 @@
 #priority 101
 
+import crafttweaker.api.ingredient.IIngredient;
+import crafttweaker.api.item.IItemStack;
+import crafttweaker.api.bracket.BracketHandlers;
 
 public class Conversions {
     private static var ingotVolume = 144; // mB
@@ -16,5 +19,13 @@ public class Conversions {
         }
 
         return result;
+    }
+
+    public static StringToIItemStack(itemName as string) as IItemStack {
+        return BracketHandlers.getItem(itemName);
+    }
+
+    public static StringToIIngredient(itemName as string) as IIngredient {
+        return BracketHandlers.getItem(itemName).asVanillaIngredient();
     }
 }
