@@ -1,0 +1,106 @@
+{
+	id: "1DB078BF2CEE8F5A"
+	group: "59827074EE413CD0"
+	order_index: 0
+	filename: "introduction"
+	title: "Introduction"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			icon: "minecraft:grass_block"
+			x: -1.5d
+			y: -1.5d
+			shape: "diamond"
+			description: ["Welcome to the mod!"]
+			size: 3.0d
+			id: "4F0C1001B509B74E"
+			tasks: [{
+				id: "5F8FF9F2ADAE6A95"
+				type: "checkmark"
+				title: "It begins..."
+			}]
+		}
+		{
+			x: -1.5d
+			y: -6.0d
+			shape: "square"
+			description: ["Optional Chain"]
+			dependencies: ["4F0C1001B509B74E"]
+			dependency_requirement: "one_started"
+			size: 1.5d
+			optional: true
+			id: "2185505BB86DFC96"
+			tasks: [{
+				id: "4EA1CD065A70CAC2"
+				type: "checkmark"
+				title: "[Optional] Iconography"
+			}]
+		}
+		{
+			x: 5.0d
+			y: -1.5d
+			dependencies: ["7397D2BB67E10600"]
+			id: "759EC7A8FB304171"
+			tasks: [{
+				id: "50DECACFDF7D9A8D"
+				type: "item"
+				item: "minecraft:flint"
+			}]
+		}
+		{
+			title: "Grab that stone"
+			x: 2.5d
+			y: -1.5d
+			dependencies: ["4F0C1001B509B74E"]
+			id: "7397D2BB67E10600"
+			tasks: [{
+				id: "249EE04F252D66AF"
+				type: "item"
+				item: "projectvibrantjourneys:rocks"
+			}]
+			rewards: [{
+				id: "5956A6B7D9016FFC"
+				type: "item"
+				item: "natprog:stone_pebble"
+				count: 3
+			}]
+		}
+		{
+			x: 7.5d
+			y: -1.5d
+			dependencies: ["759EC7A8FB304171"]
+			id: "50FB4310A414DBF8"
+			tasks: [
+				{
+					id: "03AF174CFE169F36"
+					type: "item"
+					item: "silentgear:rough_rod"
+				}
+				{
+					id: "062253BD69585CCF"
+					type: "advancement"
+					title: "A Swanky Shank"
+					advancement: "silentgear:survival_tool"
+					criterion: ""
+				}
+			]
+		}
+		{
+			x: 9.0d
+			y: -1.5d
+			dependencies: ["50FB4310A414DBF8"]
+			id: "5F9201301B721322"
+			tasks: [{
+				id: "29E9282B629409C0"
+				type: "item"
+				item: "silentgear:axe_template"
+			}]
+			rewards: [{
+				id: "66A73716A2E298B2"
+				type: "item"
+				item: "silentgear:stone_rod"
+			}]
+		}
+	]
+}

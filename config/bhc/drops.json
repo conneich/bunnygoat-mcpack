@@ -4,13 +4,16 @@
       "hostile": 0.05
     },
     "green": {
-      "dragon": 1.0
+      "dragon": 1.0,
+	  "hostile": 0.0001
     },
     "blue": {
-      "minecraft:evoker": 1.0
+      "minecraft:evoker": 1.0,
+	  "hostile": 0.005
     },
     "yellow": {
-      "boss": 1.0
+      "boss": 1.0,
+	  "hostile": 0.0005
     }
   }
 }
