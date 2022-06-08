@@ -1,10 +1,9 @@
 #priority 101
 
-import crafttweaker.api.CraftingTableManager;
+import crafttweaker.api.recipe.CraftingTableRecipeManager;
 import crafttweaker.api.item.IItemStack;
-import crafttweaker.api.item.IIngredient;
+import crafttweaker.api.ingredient.IIngredient;
 import crafttweaker.api.tag.MCTag;
-import crafttweaker.api.recipes.WrapperRecipe;
 import stdlib.List;
 
 public class RecipeHelper {
@@ -18,14 +17,14 @@ public class RecipeHelper {
         */
 
         // Remove the recipe first
-        craftingTable.removeRecipe(item_removed);
+        craftingTable.remove(item_removed);
 
         // Add the new recipe with the item_removed output
         craftingTable.addShaped(name, item_removed, ingredients);
     }
     public static ReplaceRecipeShapeless(name as string, item_removed as IItemStack, ingredients as IIngredient[]) as void {
         // Remove the recipe first
-        craftingTable.removeRecipe(item_removed);
+        craftingTable.remove(item_removed);
 
         // Add the new shapeless recipe with the item_removed output
         craftingTable.addShapeless(name, item_removed, ingredients);
@@ -35,7 +34,7 @@ public class RecipeHelper {
     // For example, changing the recipe of a single ingot turning into nine nuggets, it would turn a single ingot into nine blocks!
     public static OverrideRecipeShapeless(name as string, item_removed as IItemStack, item_output as IItemStack, ingredients as IIngredient[][]) as void {
             
-        craftingTable.removeRecipe(item_removed);
+        craftingTable.remove(item_removed);
 
     }
 
@@ -48,7 +47,7 @@ public class RecipeHelper {
         //print(found_recipes[0].group); // Nothing
 
         // Firstly, remove the original recipe
-        furnace.removeRecipe(item_removed);
+        furnace.remove(item_removed);
 
         // Add the new recipe with the item_output, and the input ingredient
         furnace.addRecipe(name, item_output, ingredient, xp, cookTime);
@@ -57,7 +56,7 @@ public class RecipeHelper {
     /*****      Blast Furnace Helpers       *****/
     public static OverrideBlastFurnaceRecipe(name as string, item_removed as IItemStack, item_output as IItemStack, ingredient as IIngredient, xp as float, cookTime as int) as void {
         // Firstly, remove the original recipe
-        blastFurnace.removeRecipe(item_removed);
+        blastFurnace.remove(item_removed);
 
         // Add the new recipe with the item_output, and the input ingredient
         blastFurnace.addRecipe(name, item_output, ingredient, xp, cookTime);
