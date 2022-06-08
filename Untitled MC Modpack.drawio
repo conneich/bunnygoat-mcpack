@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-05T12:41:48.868Z" agent="5.0 (Windows)" etag="ooI58mJ5g3ldVwkY2U2g" version="19.0.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-06-08T22:38:02.767Z" agent="5.0 (Windows)" etag="oWTXEyDMN0mzzmh3Vm8o" version="19.0.0" type="github" pages="3">
   <diagram id="D16m4kfWFw2HEZQcjknS" name="Primary Mod List">
-    <mxGraphModel dx="1038" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1182" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -112,7 +112,7 @@
         <mxCell id="EsS47KtiDPzlkTfj5x5h-5" value="Apotheosis" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;rounded=0;" parent="EsS47KtiDPzlkTfj5x5h-3" vertex="1">
           <mxGeometry y="60" width="260" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EsS47KtiDPzlkTfj5x5h-6" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;rounded=0;" parent="EsS47KtiDPzlkTfj5x5h-3" vertex="1">
+        <mxCell id="EsS47KtiDPzlkTfj5x5h-6" value="Agricraft&#xa;+Crop genetics" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;rounded=0;" parent="EsS47KtiDPzlkTfj5x5h-3" vertex="1">
           <mxGeometry y="90" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EsS47KtiDPzlkTfj5x5h-8" value="Age Availablity Key" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;fillColor=none;" parent="1" vertex="1">
@@ -277,98 +277,98 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9ME-OyZdoubxCk4PVZ4c" name="Magic harvesting tools">
-    <mxGraphModel dx="1038" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1182" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="gCie6b_OW1F46oA7DasX-1" value="Magic &lt;br&gt;harvesting &lt;br&gt;gear" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gCie6b_OW1F46oA7DasX-1" value="Magic &lt;br&gt;harvesting &lt;br&gt;gear" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="365" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gCie6b_OW1F46oA7DasX-12" value="Ideas and goal &#xa;of these items" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+        <mxCell id="gCie6b_OW1F46oA7DasX-12" value="Ideas and goal &#xa;of these items" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
           <mxGeometry x="30" width="560" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="gCie6b_OW1F46oA7DasX-13" value="&quot;Long path magic&quot; where the player needs to progress in gathering and crafting to gain power" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="gCie6b_OW1F46oA7DasX-12">
+        <mxCell id="gCie6b_OW1F46oA7DasX-13" value="&quot;Long path magic&quot; where the player needs to progress in gathering and crafting to gain power" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="gCie6b_OW1F46oA7DasX-12" vertex="1">
           <mxGeometry y="40" width="560" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gCie6b_OW1F46oA7DasX-14" value="Harvesting tools that grow with the progression of the player that require sacrifice and effort" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="gCie6b_OW1F46oA7DasX-12">
+        <mxCell id="gCie6b_OW1F46oA7DasX-14" value="Harvesting tools that grow with the progression of the player that require sacrifice and effort" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="gCie6b_OW1F46oA7DasX-12" vertex="1">
           <mxGeometry y="70" width="560" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gCie6b_OW1F46oA7DasX-15" value="unorthadox gathering methods to give the pack a feeling of magic rather than just tech by another name" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="gCie6b_OW1F46oA7DasX-12">
+        <mxCell id="gCie6b_OW1F46oA7DasX-15" value="unorthadox gathering methods to give the pack a feeling of magic rather than just tech by another name" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="gCie6b_OW1F46oA7DasX-12" vertex="1">
           <mxGeometry y="100" width="560" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gCie6b_OW1F46oA7DasX-21" value="teir progression" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+        <mxCell id="gCie6b_OW1F46oA7DasX-21" value="teir progression" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
           <mxGeometry x="680" width="140" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="gCie6b_OW1F46oA7DasX-23" value="Leather&#xa;&#xa;Copper&#xa;&#xa;Iron&#xa;&#xa;Crystal?&#xa;&#xa;Magic metal?" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="gCie6b_OW1F46oA7DasX-21">
+        <mxCell id="gCie6b_OW1F46oA7DasX-23" value="Leather&#xa;&#xa;Copper&#xa;&#xa;Iron&#xa;&#xa;Crystal?&#xa;&#xa;Magic metal?" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="gCie6b_OW1F46oA7DasX-21" vertex="1">
           <mxGeometry y="30" width="140" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="gCie6b_OW1F46oA7DasX-25" value="leather Teir" style="swimlane;horizontal=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="gCie6b_OW1F46oA7DasX-25" value="leather Teir" style="swimlane;horizontal=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry y="220" width="840" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="gCie6b_OW1F46oA7DasX-27" value="Magic proof gloves" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="gCie6b_OW1F46oA7DasX-25">
+        <mxCell id="gCie6b_OW1F46oA7DasX-27" value="Magic proof gloves" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="gCie6b_OW1F46oA7DasX-25" vertex="1">
           <mxGeometry x="190" width="150" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="gCie6b_OW1F46oA7DasX-28" value="start with leather glove&#xa;needed to harvest magic &#xa;tannin" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="gCie6b_OW1F46oA7DasX-27">
+        <mxCell id="gCie6b_OW1F46oA7DasX-28" value="start with leather glove&#xa;needed to harvest magic &#xa;tannin" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="gCie6b_OW1F46oA7DasX-27" vertex="1">
           <mxGeometry y="30" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gCie6b_OW1F46oA7DasX-29" value="Use magic tannin to make&#xa; magic sealed leather" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="gCie6b_OW1F46oA7DasX-27">
+        <mxCell id="gCie6b_OW1F46oA7DasX-29" value="Use magic tannin to make&#xa; magic sealed leather" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="gCie6b_OW1F46oA7DasX-27" vertex="1">
           <mxGeometry y="90" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gCie6b_OW1F46oA7DasX-30" value="use magic sealed leather to&#xa; make magic proof gloves" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="gCie6b_OW1F46oA7DasX-27">
+        <mxCell id="gCie6b_OW1F46oA7DasX-30" value="use magic sealed leather to&#xa; make magic proof gloves" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="gCie6b_OW1F46oA7DasX-27" vertex="1">
           <mxGeometry y="130" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="gCie6b_OW1F46oA7DasX-31" value="Magic proof gloves allow &#xa;handling of magic materials" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="gCie6b_OW1F46oA7DasX-27">
+        <mxCell id="gCie6b_OW1F46oA7DasX-31" value="Magic proof gloves allow &#xa;handling of magic materials" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="gCie6b_OW1F46oA7DasX-27" vertex="1">
           <mxGeometry y="180" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="gCie6b_OW1F46oA7DasX-32" value="Log stripping and leather" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="gCie6b_OW1F46oA7DasX-25">
+        <mxCell id="gCie6b_OW1F46oA7DasX-32" value="Log stripping and leather" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="gCie6b_OW1F46oA7DasX-25" vertex="1">
           <mxGeometry x="360" width="170" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="gCie6b_OW1F46oA7DasX-33" value="collect tannin to make leather" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="gCie6b_OW1F46oA7DasX-32">
+        <mxCell id="gCie6b_OW1F46oA7DasX-33" value="collect tannin to make leather" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="gCie6b_OW1F46oA7DasX-32" vertex="1">
           <mxGeometry y="30" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gCie6b_OW1F46oA7DasX-34" value="essence Tannin with gloves" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="gCie6b_OW1F46oA7DasX-32">
+        <mxCell id="gCie6b_OW1F46oA7DasX-34" value="essence Tannin with gloves" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="gCie6b_OW1F46oA7DasX-32" vertex="1">
           <mxGeometry y="60" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gCie6b_OW1F46oA7DasX-35" value="Leather can be made magic sealed leather for armor and tool crafting" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;" vertex="1" parent="gCie6b_OW1F46oA7DasX-32">
+        <mxCell id="gCie6b_OW1F46oA7DasX-35" value="Leather can be made magic sealed leather for armor and tool crafting" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;" parent="gCie6b_OW1F46oA7DasX-32" vertex="1">
           <mxGeometry y="90" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gCie6b_OW1F46oA7DasX-36" value="Magic sealed leather will be used for continued crafting through the pack. might need streamlined?" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;" vertex="1" parent="gCie6b_OW1F46oA7DasX-32">
+        <mxCell id="gCie6b_OW1F46oA7DasX-36" value="Magic sealed leather will be used for continued crafting through the pack. might need streamlined?" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;" parent="gCie6b_OW1F46oA7DasX-32" vertex="1">
           <mxGeometry y="150" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="gCie6b_OW1F46oA7DasX-42" value="Materials for this teir" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="gCie6b_OW1F46oA7DasX-25">
+        <mxCell id="gCie6b_OW1F46oA7DasX-42" value="Materials for this teir" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="gCie6b_OW1F46oA7DasX-25" vertex="1">
           <mxGeometry x="40" y="20" width="140" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="gCie6b_OW1F46oA7DasX-43" value="Animal hide&#xa;&#xa;Tanin&#xa;&#xa;Leather &#xa;&#xa;magic tannin&#xa;&#xa;Magic sealed leather&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="gCie6b_OW1F46oA7DasX-42">
+        <mxCell id="gCie6b_OW1F46oA7DasX-43" value="Animal hide&#xa;&#xa;Tanin&#xa;&#xa;Leather &#xa;&#xa;magic tannin&#xa;&#xa;Magic sealed leather&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="gCie6b_OW1F46oA7DasX-42" vertex="1">
           <mxGeometry y="30" width="140" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="gCie6b_OW1F46oA7DasX-37" value="Copper teir" style="swimlane;horizontal=0;" vertex="1" parent="1">
+        <mxCell id="gCie6b_OW1F46oA7DasX-37" value="Copper teir" style="swimlane;horizontal=0;" parent="1" vertex="1">
           <mxGeometry y="480" width="840" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="gCie6b_OW1F46oA7DasX-38" value="Gloves" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="gCie6b_OW1F46oA7DasX-37">
+        <mxCell id="gCie6b_OW1F46oA7DasX-38" value="Gloves" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="gCie6b_OW1F46oA7DasX-37" vertex="1">
           <mxGeometry x="190" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gCie6b_OW1F46oA7DasX-41" value="no changes this tier" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="gCie6b_OW1F46oA7DasX-38">
+        <mxCell id="gCie6b_OW1F46oA7DasX-41" value="no changes this tier" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="gCie6b_OW1F46oA7DasX-38" vertex="1">
           <mxGeometry y="30" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gCie6b_OW1F46oA7DasX-46" value="Materials this tier" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="gCie6b_OW1F46oA7DasX-37">
+        <mxCell id="gCie6b_OW1F46oA7DasX-46" value="Materials this tier" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="gCie6b_OW1F46oA7DasX-37" vertex="1">
           <mxGeometry x="40" width="140" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="gCie6b_OW1F46oA7DasX-47" value="Copper blade&#xa;&#xa;sealed leather handle&#xa;(stick + sealed leather)&#xa;&#xa;Copper hammer head&#xa;&#xa;Copper wand core&#xa;&#xa;Wand shell&#xa;&#xa;mana plant fibers&#xa;&#xa;Crude whetstone" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="gCie6b_OW1F46oA7DasX-46">
+        <mxCell id="gCie6b_OW1F46oA7DasX-47" value="Copper blade&#xa;&#xa;sealed leather handle&#xa;(stick + sealed leather)&#xa;&#xa;Copper hammer head&#xa;&#xa;Copper wand core&#xa;&#xa;Wand shell&#xa;&#xa;mana plant fibers&#xa;&#xa;Crude whetstone" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="gCie6b_OW1F46oA7DasX-46" vertex="1">
           <mxGeometry y="30" width="140" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="gCie6b_OW1F46oA7DasX-50" value="Copper knife" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="gCie6b_OW1F46oA7DasX-37">
+        <mxCell id="gCie6b_OW1F46oA7DasX-50" value="Copper knife" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="gCie6b_OW1F46oA7DasX-37" vertex="1">
           <mxGeometry x="340" width="240" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="gCie6b_OW1F46oA7DasX-51" value="a copper blade can be be combined with a handle to make a knife" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;" vertex="1" parent="gCie6b_OW1F46oA7DasX-50">
+        <mxCell id="gCie6b_OW1F46oA7DasX-51" value="a copper blade can be be combined with a handle to make a knife" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;" parent="gCie6b_OW1F46oA7DasX-50" vertex="1">
           <mxGeometry y="30" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gCie6b_OW1F46oA7DasX-54" value="while wearing gloves, using the knife on grass or leaves gets mana plant fiber." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;" vertex="1" parent="gCie6b_OW1F46oA7DasX-50">
+        <mxCell id="gCie6b_OW1F46oA7DasX-54" value="while wearing gloves, using the knife on grass or leaves gets mana plant fiber." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;" parent="gCie6b_OW1F46oA7DasX-50" vertex="1">
           <mxGeometry y="70" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gCie6b_OW1F46oA7DasX-52" value="mixing sand, magic plant fibers and clay to make a crude whetstone" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;" vertex="1" parent="gCie6b_OW1F46oA7DasX-50">
+        <mxCell id="gCie6b_OW1F46oA7DasX-52" value="mixing sand, magic plant fibers and clay to make a crude whetstone" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;" parent="gCie6b_OW1F46oA7DasX-50" vertex="1">
           <mxGeometry y="110" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gCie6b_OW1F46oA7DasX-53" value="Sharpen the knife at the cost of one heart and one food per grind.requires 10 grinds to make a knife into a mana shapened knife." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;" vertex="1" parent="gCie6b_OW1F46oA7DasX-50">
+        <mxCell id="gCie6b_OW1F46oA7DasX-53" value="Sharpen the knife at the cost of one heart and one food per grind.requires 10 grinds to make a knife into a mana shapened knife." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;" parent="gCie6b_OW1F46oA7DasX-50" vertex="1">
           <mxGeometry y="150" width="240" height="70" as="geometry" />
         </mxCell>
       </root>
